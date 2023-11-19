@@ -1,0 +1,14 @@
+### Listar eventos
+GET https://localhost:7255/api/evento
+
+### Listar eventos por id
+GET https://localhost:7255/api/evento/1
+
+### Cadastrar eventos
+POST https://localhost:7255/api/evento
+
+### Alterar eventos
+PUT https://localhost:7255/api/evento/1
+
+### Deletar eventos
+DELETE https://localhost:7255/api/evento/1
